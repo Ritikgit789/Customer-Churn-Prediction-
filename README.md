@@ -1,4 +1,4 @@
-# Customer-Churn-Prediction-
+# Customer-Churn-Prediction-system
 
 -- **Problem Statement**: Predicted and analyzed factors leading to customer churn to reduce turnover and improve customer retention. 
 -- Focusing on data storytelling, solved various questions that impacted business needs!
